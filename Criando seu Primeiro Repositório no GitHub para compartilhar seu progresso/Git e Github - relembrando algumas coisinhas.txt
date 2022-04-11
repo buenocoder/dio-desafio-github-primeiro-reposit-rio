@@ -4,57 +4,57 @@
 
 ### Abrir o GitHub
 
-1) "New repository"
+1. "New repository"
 
-2) Definir nome: "dio-desafio-github-primeiro-repositório"
+2. Definir nome: "dio-desafio-github-primeiro-repositório"
 
-3) Descrição: "desafio de projeto sobre Git/GitHub"
+3. Descrição: "desafio de projeto sobre Git/GitHub"
 
-4) Tornar o repositório público
+4. Tornar o repositório público
 
-5) selecionar a opção "Add a REAME file" (colocar tudo o que você achar relevante
-  nele para o projeto, ex: considerações iniciais, anotações, links úteis)
+5. selecionar a opção "Add a REAME file" (colocar tudo o que você achar relevante
+    nele para o projeto, ex: considerações iniciais, anotações, links úteis)
 
-6) Criar repositório
+6. Criar repositório
 
-7) na aba "Edit file", escrever a descrição do projeto
+7. na aba "Edit file", escrever a descrição do projeto
 
-8) Commit Changes
+8. Commit Changes
 
 ### Clonando o repositório na máquina
 
-1) na aba "<> Code" copiar link HTTPS
+1. na aba "<> Code" copiar link HTTPS
 
 2. Criar uma nova pasta para receber o repositório na máquina
      Ex: Este computador>Documentos>Dev>Git>DIO
 
-3) Abrir com o GitBash dentro da nova pasta
+3. Abrir com o GitBash dentro da nova pasta
 
-4) executar o comando "git clone (link https)"
+4. executar o comando "git clone (link https)"
 
-5) executar o comando "cd dio-desafio-github-primeiro-repositorio"
+5. executar o comando "cd dio-desafio-github-primeiro-repositorio"
 para acessar o repositório
 
-6) executar o comando "git status" para verificar se está tudo ok
+6. executar o comando "git status" para verificar se está tudo ok
 
-7) dentro da pasta do desafio, criar um arquivo txt "anotações"
+7. dentro da pasta do desafio, criar um arquivo txt "anotações"
 
-8) executar o comando "git status" no terminal git
+8. executar o comando "git status" no terminal git
 
 9. executar o comando "git add ." para adicionar todos os arquivos
 
 10. executar o comando "git status" para verificar se foi adicionado
     no controle de versão local
 
-11) executar o comando "git commit -m "inclusão das anotações do curso de 
+11. executar o comando "git commit -m "inclusão das anotações do curso de 
 Git/GitHub"
 
 12. executar o comando "git status"
 
-13) executar o comando "git push origin main" para fazer o push
+13. executar o comando "git push origin main" para fazer o push
 e enviar para a nuvem
 
-14) verificar se está ok no repositório da nuvem do Git
+14. verificar se está ok no repositório da nuvem do Git
 
 
 
